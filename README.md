@@ -1,4 +1,4 @@
-# test-assignment
+# My realisation of custom select component on vue.js. Used only pure JS, Vue3 and VUEX as data storage
 
 ## Project setup
 ```
